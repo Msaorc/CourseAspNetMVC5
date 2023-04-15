@@ -1,0 +1,12 @@
+C:\Users\marcos_augusto\Documents\CursoAspNetMvc\ProjetoCurso\ProjectMVCComplete\src\MA.CursoMVC.Infra.Data\bin\Debug\MA.CursoMVC.Infra.Data.dll.config
+C:\Users\marcos_augusto\Documents\CursoAspNetMvc\ProjetoCurso\ProjectMVCComplete\src\MA.CursoMVC.Infra.Data\bin\Debug\MA.CursoMVC.Infra.Data.dll
+C:\Users\marcos_augusto\Documents\CursoAspNetMvc\ProjetoCurso\ProjectMVCComplete\src\MA.CursoMVC.Infra.Data\bin\Debug\MA.CursoMVC.Infra.Data.pdb
+C:\Users\marcos_augusto\Documents\CursoAspNetMvc\ProjetoCurso\ProjectMVCComplete\src\MA.CursoMVC.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\marcos_augusto\Documents\CursoAspNetMvc\ProjetoCurso\ProjectMVCComplete\src\MA.CursoMVC.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marcos_augusto\Documents\CursoAspNetMvc\ProjetoCurso\ProjectMVCComplete\src\MA.CursoMVC.Infra.Data\bin\Debug\MA.CursoMVC.Domain.dll
+C:\Users\marcos_augusto\Documents\CursoAspNetMvc\ProjetoCurso\ProjectMVCComplete\src\MA.CursoMVC.Infra.Data\bin\Debug\MA.CursoMVC.Domain.pdb
+C:\Users\marcos_augusto\Documents\CursoAspNetMvc\ProjetoCurso\ProjectMVCComplete\src\MA.CursoMVC.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\marcos_augusto\Documents\CursoAspNetMvc\ProjetoCurso\ProjectMVCComplete\src\MA.CursoMVC.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marcos_augusto\Documents\CursoAspNetMvc\ProjetoCurso\ProjectMVCComplete\src\MA.CursoMVC.Infra.Data\obj\Debug\MA.CursoMVC.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\marcos_augusto\Documents\CursoAspNetMvc\ProjetoCurso\ProjectMVCComplete\src\MA.CursoMVC.Infra.Data\obj\Debug\MA.CursoMVC.Infra.Data.dll
+C:\Users\marcos_augusto\Documents\CursoAspNetMvc\ProjetoCurso\ProjectMVCComplete\src\MA.CursoMVC.Infra.Data\obj\Debug\MA.CursoMVC.Infra.Data.pdb
