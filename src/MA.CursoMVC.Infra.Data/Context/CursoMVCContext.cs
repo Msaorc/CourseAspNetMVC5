@@ -35,6 +35,7 @@ namespace MA.CursoMVC.Infra.Data.Context
                 .Configure(p => p.HasMaxLength(200));
 
             modelBuilder.Configurations.Add(new ClienteConfig());
+            modelBuilder.Configurations.Add(new EnderecoConfig());
 
             base.OnModelCreating(modelBuilder);
         }
